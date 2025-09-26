@@ -42,4 +42,3 @@ $ python3 ctfr.py -d starbucks.com
 ```bash
 $ python3 ctfr.py -d facebook.com -o /home/shei/subdomains_fb.txt
 ```
-
