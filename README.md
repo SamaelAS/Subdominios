@@ -6,19 +6,20 @@
 
 ## Instalación
 
-bash```
-git clone https://github.com/SamaelAS/Subdominios```
+```bash $ git clone https://github.com/SamaelAS/Subdominios```
 
-bash ```cd ctfr
-$ pip3 install -r requirements.txt```
+```bash $ cd ctfr```
+
+```bash $ pip3 install -r requirements.txt```
 
 ## Ejecución
 
-bash```python3 ctfr.py --helpUsoParámetros y ejemplos de uso.Parámetros-d --domain [dominio_objetivo] (obligatorio)
+```bash $ python3 ctfr.py```
+--help Uso Parámetros y ejemplos de uso.Parámetros-d --domain [dominio_objetivo] (obligatorio)
 -o --output [archivo_salida] (opcional)```
 
 ## Ejemplos$  
 
-bash```python3ctfr.py -d starbucks.com```
+```bash $ python3ctfr.py -d starbucks.com```
 
-bash```ython3 ctfr.py -d facebook.com -o /home/shei/subdomains_fb.txt```
+```bash python3 ctfr.py -d facebook.com -o /home/shei/subdomains_fb.txt```
