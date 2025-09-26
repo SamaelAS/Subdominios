@@ -15,7 +15,7 @@ pip3 (sudo apt-get install python3-pip).
 
 ### Installing
 ```bash
-$ git clone https://github.com/UnaPibaGeek/ctfr.git
+$ https://github.com/SamaelAS/Subdominios
 $ cd ctfr
 $ pip3 install -r requirements.txt
 ```
@@ -43,20 +43,3 @@ $ python3 ctfr.py -d starbucks.com
 $ python3 ctfr.py -d facebook.com -o /home/shei/subdomains_fb.txt
 ```
 
-### With Docker
-I think it's a little bit crazy to use Docker for running such a little python script, but if you want to do it anyway, you can use [this Docker image](https://hub.docker.com/r/unapibageek/ctfr).
-
-The instructions are there.
-
-## Screenshots
-<p align="center">
-  <img src="https://www.semecayounexploit.com/CTFR/CTFR-ST.png" />
-</p>
-
-<p align="center">
-  <img src="https://www.semecayounexploit.com/CTFR/CTFR-FB.png" />
-</p>
-
-
-## Author
-* *Sheila A. Berta - [(@UnaPibaGeek)](https://www.twitter.com/UnaPibaGeek).*
