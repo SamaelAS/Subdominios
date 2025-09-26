@@ -1,0 +1,2 @@
+# Subdominios
+Scrip termux
