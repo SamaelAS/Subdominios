@@ -1,4 +1,6 @@
-# CTFR¿Extrañas la técnica AXFR? Esta herramienta permite obtener los subdominios de un sitio web HTTPS en pocos segundos.
+# CTFR
+
+### ¿Extrañas la técnica AXFR? Esta herramienta permite obtener los subdominios de un sitio web HTTPS en pocos segundos.
 
 #### ¿Cómo funciona? CTFR no utiliza ataques de diccionario ni fuerza bruta, simplemente abusa de los registros de Certificate Transparency. Para más información sobre los registros CT, consulta www.certificate-transparency.org y crt.sh.Primeros pasosPor favor, sigue las instrucciones a continuación para instalar y ejecutar CTFR.Requisitos previosAsegúrate de tener instaladas las siguientes herramientas:Python 3.0 o posterior.
 
